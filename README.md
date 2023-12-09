@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou Pedro Henrique</h1>
 <h3 align="center">Apaixonado por desenvolvimento e análise em front-end,back-end!</h3>
 
-<!--<p align=" esquerda"> <a href="https://twitter.com/ph_sramos" target="blank"><img src="https://img.shields.io/twitter/follow/ph_sramos?logo=twitter&style=for -the-badge" alt="ph_sramos" /></a> </p>>
+<!-- <p align=" esquerda"> <a href="https://twitter.com/ph_sramos" target="blank"><img src="https://img.shields.io/twitter/follow/ph_sramos?logo=twitter&style=for -the-badge" alt="ph_sramos" /></a> </p> -->
 
 - 🌱 Atualmente estou aprendendo **C# e Android Studio!**
 
