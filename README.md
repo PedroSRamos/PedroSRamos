@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou aprendendo **Flutter**
 
-- 💬 Conhecimento sobre **Java,SQL,JavaScript,CSS,HTML, C#, PHP, Android Studio* *
+- 💬 Conhecimento sobre **Java,SQL,JavaScript,CSS,HTML, C#, PHP, Android Studio**
 
 - 📫 Você me encontra pelo e-mail **phsouzaramos@outlook.com**
 
