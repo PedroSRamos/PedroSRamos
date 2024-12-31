@@ -3,9 +3,9 @@
 
 <!-- <p align=" esquerda"> <a href="https://twitter.com/ph_sramos" target="blank"><img src="https://img.shields.io/twitter/follow/ph_sramos?logo=twitter&style=for -the-badge" alt="ph_sramos" /></a> </p> -->
 
-- 🌱 Atualmente estou aprendendo **C# e Android Studio!**
+- 🌱 Atualmente estou aprendendo **Flutter**
 
-- 💬 Conhecimento sobre **Java,SQL,JavaScript,CSS,HTML* *
+- 💬 Conhecimento sobre **Java,SQL,JavaScript,CSS,HTML, C#, PHP, Android Studio* *
 
 - 📫 Você me encontra pelo e-mail **phsouzaramos@outlook.com**
 
