@@ -5,11 +5,11 @@
 
 - 🌱 Atualmente estou aprendendo **Flutter**
 
-- 💬 Conhecimento sobre **Java,SQL,JavaScript,CSS,HTML, C#, PHP, Android Studio**
+- 💬 Conhecimento sobre **Java, SQL, JavaScript, CSS, HTML, C#, PHP, Kotlin**
 
 - 📫 Você me encontra pelo e-mail **phsouzaramos@outlook.com**
 
-- 📄 Experiência desenvolvimento em Java,SQL [https://www.linkedin.com/in/pedro-henrique-de-souza-ramos- 849403293](https://www.linkedin.com/in/pedro-henrique-de-souza-ramos-849403293)
+- 📄 Experiência desenvolvimento em VsCode, Android Studio, Delphi 7, IbExpert, Postman, Postgresql, etc.
 
 - ⚡ Curiosidade **❤️ Gosto de praticar atividade física, fazer trilhas e conectar-se com a natureza!**
 
