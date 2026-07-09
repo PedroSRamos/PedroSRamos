@@ -22,7 +22,7 @@
 </p>
 
 ### ✨&nbsp; Sobre
-Sou um desenvolvedor em Java e SQL á mais de 2 anos de experiência, trabalhando para desenvolvimento de soluções e novos projetos para sistemas corporativos!
+Sou um desenvolvedor em Java e SQL á mais de 4 anos de experiência, trabalhando para desenvolvimento de soluções e novos projetos para sistemas corporativos!
 
 <h3 align="left">Idiomas e ferramentas:</h3>
 
